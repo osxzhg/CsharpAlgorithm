@@ -1,0 +1,9 @@
+D:\CSharp\CsharpAlgorithm\MinWindowSubstring\obj\Debug\netstandard2.0\MinWindowSubstring.csprojAssemblyReference.cache
+D:\CSharp\CsharpAlgorithm\MinWindowSubstring\obj\Debug\netstandard2.0\MinWindowSubstring.AssemblyInfoInputs.cache
+D:\CSharp\CsharpAlgorithm\MinWindowSubstring\obj\Debug\netstandard2.0\MinWindowSubstring.AssemblyInfo.cs
+D:\CSharp\CsharpAlgorithm\MinWindowSubstring\obj\Debug\netstandard2.0\MinWindowSubstring.csproj.CoreCompileInputs.cache
+D:\CSharp\CsharpAlgorithm\MinWindowSubstring\bin\Debug\netstandard2.0\MinWindowSubstring.deps.json
+D:\CSharp\CsharpAlgorithm\MinWindowSubstring\bin\Debug\netstandard2.0\MinWindowSubstring.dll
+D:\CSharp\CsharpAlgorithm\MinWindowSubstring\bin\Debug\netstandard2.0\MinWindowSubstring.pdb
+D:\CSharp\CsharpAlgorithm\MinWindowSubstring\obj\Debug\netstandard2.0\MinWindowSubstring.dll
+D:\CSharp\CsharpAlgorithm\MinWindowSubstring\obj\Debug\netstandard2.0\MinWindowSubstring.pdb
