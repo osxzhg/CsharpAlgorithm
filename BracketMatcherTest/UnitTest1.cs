@@ -12,7 +12,6 @@ namespace BracketMatcherTest
         {
             var result=BracketMatcher.BracketMatcherService.BracketMatcher(str1);
             Assert.Equal(expected, result);
-
         }
     }
 }
