@@ -1,11 +1,15 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.26124.0
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30517.126
 MinimumVisualStudioVersion = 15.0.26124.0
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinWindowSubstring", "MinWindowSubstring\MinWindowSubstring.csproj", "{2C8AEC2E-B52C-426A-BE30-CC1C5FC7FB5E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MinWindowSubstring", "MinWindowSubstring\MinWindowSubstring.csproj", "{2C8AEC2E-B52C-426A-BE30-CC1C5FC7FB5E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinWindowSubstringTest", "MinWindowSubstringTest\MinWindowSubstringTest.csproj", "{90ED6286-CCFC-4184-A566-DC13F3BB9CB2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MinWindowSubstringTest", "MinWindowSubstringTest\MinWindowSubstringTest.csproj", "{90ED6286-CCFC-4184-A566-DC13F3BB9CB2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinaryTreeCreate", "BinaryTreeCreate\BinaryTreeCreate.csproj", "{97ECE16D-C4AB-421F-BD1C-17FB8417B544}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinaryTreeCreateTest", "BinaryTreeCreateTest\BinaryTreeCreateTest.csproj", "{4C49C390-3937-453A-AFD2-27B1F283447A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,9 +19,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 		Release|x64 = Release|x64
 		Release|x86 = Release|x86
-	EndGlobalSection
-	GlobalSection(SolutionProperties) = preSolution
-		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{2C8AEC2E-B52C-426A-BE30-CC1C5FC7FB5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
@@ -44,5 +45,35 @@ Global
 		{90ED6286-CCFC-4184-A566-DC13F3BB9CB2}.Release|x64.Build.0 = Release|Any CPU
 		{90ED6286-CCFC-4184-A566-DC13F3BB9CB2}.Release|x86.ActiveCfg = Release|Any CPU
 		{90ED6286-CCFC-4184-A566-DC13F3BB9CB2}.Release|x86.Build.0 = Release|Any CPU
+		{97ECE16D-C4AB-421F-BD1C-17FB8417B544}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97ECE16D-C4AB-421F-BD1C-17FB8417B544}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97ECE16D-C4AB-421F-BD1C-17FB8417B544}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{97ECE16D-C4AB-421F-BD1C-17FB8417B544}.Debug|x64.Build.0 = Debug|Any CPU
+		{97ECE16D-C4AB-421F-BD1C-17FB8417B544}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{97ECE16D-C4AB-421F-BD1C-17FB8417B544}.Debug|x86.Build.0 = Debug|Any CPU
+		{97ECE16D-C4AB-421F-BD1C-17FB8417B544}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97ECE16D-C4AB-421F-BD1C-17FB8417B544}.Release|Any CPU.Build.0 = Release|Any CPU
+		{97ECE16D-C4AB-421F-BD1C-17FB8417B544}.Release|x64.ActiveCfg = Release|Any CPU
+		{97ECE16D-C4AB-421F-BD1C-17FB8417B544}.Release|x64.Build.0 = Release|Any CPU
+		{97ECE16D-C4AB-421F-BD1C-17FB8417B544}.Release|x86.ActiveCfg = Release|Any CPU
+		{97ECE16D-C4AB-421F-BD1C-17FB8417B544}.Release|x86.Build.0 = Release|Any CPU
+		{4C49C390-3937-453A-AFD2-27B1F283447A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C49C390-3937-453A-AFD2-27B1F283447A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C49C390-3937-453A-AFD2-27B1F283447A}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{4C49C390-3937-453A-AFD2-27B1F283447A}.Debug|x64.Build.0 = Debug|Any CPU
+		{4C49C390-3937-453A-AFD2-27B1F283447A}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{4C49C390-3937-453A-AFD2-27B1F283447A}.Debug|x86.Build.0 = Debug|Any CPU
+		{4C49C390-3937-453A-AFD2-27B1F283447A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C49C390-3937-453A-AFD2-27B1F283447A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C49C390-3937-453A-AFD2-27B1F283447A}.Release|x64.ActiveCfg = Release|Any CPU
+		{4C49C390-3937-453A-AFD2-27B1F283447A}.Release|x64.Build.0 = Release|Any CPU
+		{4C49C390-3937-453A-AFD2-27B1F283447A}.Release|x86.ActiveCfg = Release|Any CPU
+		{4C49C390-3937-453A-AFD2-27B1F283447A}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A659E983-B378-42F0-884A-6D1CD72982FD}
 	EndGlobalSection
 EndGlobal
